@@ -2,7 +2,7 @@
 # Mini Project 2 – CareerHub: Building a Mini Job Portal with MongoDB and Flask
 
 ## About
-CareerHub is a mongodb based career portal database. It allows users to retrieve and modify job listings based on specific criteria.
+CareerHub is a MongoDB based career portal database. It allows users to retrieve and modify job listings based on specific criteria.
 
 ## Requirements
 CareerHub requires the following:
